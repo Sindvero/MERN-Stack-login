@@ -2,42 +2,42 @@
 
 ## Setup
 
-    To build a MERN stack from scratch you will need to:
-    * install nodejs and npm on the server;
-    * install MongoDB: ```shell sudo apt-get install -y mongodb-org ```;
-    * init the project: ```shell npm init```;
-    * install all dependencies: ```shell npm i bcryptjs body-parser concurrently express is-empty jsonwebtoken mongoose passport passport-jwt validator```;
-    * Setting up your database in MongoDB.
+To build a MERN stack from scratch you will need to:
+* install nodejs and npm on the server;
+* install MongoDB: ```shell sudo apt-get install -y mongodb-org ```;
+* init the project: ```shell npm init```;
+* install all dependencies: ```shell npm i bcryptjs body-parser concurrently express is-empty jsonwebtoken mongoose passport passport-jwt validator```;
+* Setting up your database in MongoDB.
 
 ## Template
 
-    You can use this template, modify it, adapt it to your application. I let some comments in the different files of the projects.
+You can use this template, modify it, adapt it to your application. I let some comments in the different files of the projects.
 
 ### Skeleton of the MERN Stack
 
-    The client floder contains the front-end of the application, you can run:
-    ```shell
-    npm i -g create-react-app
-    create-react-app .
-    ```
-    to create a react project (it's easier than doing it from scratch).
+The client floder contains the front-end of the application, you can run:
+```shell
+npm i -g create-react-app
+ create-react-app .
+```
+to create a react project (it's easier than doing it from scratch).
 
-    The config folder contains the config files for our application (key for the connection to MongoDB).
+The config folder contains the config files for our application (key for the connection to MongoDB).
 
-    The validation folder contains the files to validate a login or a register (*i.e.* check if a field is empty or not, check the format, ...).
+The validation folder contains the files to validate a login or a register (*i.e.* check if a field is empty or not, check the format, ...).
 
-    The 'server.js' file is to lauch the server (nodejs).
+The 'server.js' file is to lauch the server (nodejs).
 
-    I'm using Redux for state management.
+I'm using Redux for state management.
 
 ### Result
 
-    Welcome Page:
-    ![welcomePage](img/welcome.png "Welcome Page")
-    Login Page:
-    ![loginPage](img/login.png "Login Page")
-    Register Page:
-    ![registerPage](img/register.png "Register Page")
+Welcome Page:
+![welcomePage](img/welcome.png "Welcome Page")
+Login Page:
+![loginPage](img/login.png "Login Page")
+Register Page:
+![registerPage](img/register.png "Register Page")
 
 # References
 
