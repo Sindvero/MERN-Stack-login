@@ -4,9 +4,9 @@
 
 To build a MERN stack from scratch you will need to:
 * install nodejs and npm on the server;
-* install MongoDB: ```shell sudo apt-get install -y mongodb-org ```;
-* init the project: ```shell npm init```;
-* install all dependencies: ```shell npm i bcryptjs body-parser concurrently express is-empty jsonwebtoken mongoose passport passport-jwt validator```;
+* install MongoDB: ``` sudo apt-get install -y mongodb-org ```;
+* init the project: ``` npm init```;
+* install all dependencies: ``` npm i bcryptjs body-parser concurrently express is-empty jsonwebtoken mongoose passport passport-jwt validator```;
 * Setting up your database in MongoDB.
 
 ## Template
@@ -33,15 +33,18 @@ I'm using Redux for state management.
 ### Result
 
 Welcome Page:
+
 ![welcomePage](img/welcome.png "Welcome Page")
 Login Page:
+
 ![loginPage](img/login.png "Login Page")
 Register Page:
+
 ![registerPage](img/register.png "Register Page")
 
 # References
 
-[1]: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+[1]: [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/]
 [2]: https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
 [3]: https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js
 [4]: https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get
