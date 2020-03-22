@@ -35,17 +35,19 @@ I'm using Redux for state management.
 Welcome Page:
 
 ![welcomePage](img/welcome.png "Welcome Page")
+
 Login Page:
 
 ![loginPage](img/login.png "Login Page")
+
 Register Page:
 
 ![registerPage](img/register.png "Register Page")
 
 # References
 
-1: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
-2: https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
-3: https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js
-4: https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get
-5: https://www.youtube.com/watch?time_continue=1&v=93p3LxR9xfM&feature=emb_logo
+1. https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+2. https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
+3. https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js
+4. https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get
+5. https://www.youtube.com/watch?time_continue=1&v=93p3LxR9xfM&feature=emb_logo
