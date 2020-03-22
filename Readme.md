@@ -32,15 +32,15 @@ I'm using Redux for state management.
 
 ### Result
 
-Welcome Page:
+**Welcome Page**:
 
 ![welcomePage](img/welcome.png "Welcome Page")
 
-Login Page:
+**Login Page**:
 
 ![loginPage](img/login.png "Login Page")
 
-Register Page:
+**Register Page**:
 
 ![registerPage](img/register.png "Register Page")
 
