@@ -44,7 +44,7 @@ Register Page:
 
 # References
 
-[1]: [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/]
+1: [https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/]
 [2]: https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66
 [3]: https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js
 [4]: https://openclassrooms.com/fr/courses/6390246-passez-au-full-stack-avec-node-js-express-et-mongodb/6466298-creez-une-route-get
